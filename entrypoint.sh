@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-echo "hello world from release"
+echo "hello world from release!"
